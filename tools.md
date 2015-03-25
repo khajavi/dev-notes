@@ -7,3 +7,6 @@
 * python -m smtpd -n -c DebuggingServer localhost:1025
 * [MailHog](https://github.com/mailhog/MailHog)
 * mailcatcher
+
+# git
+* [hub](https://github.com/github/hub)
