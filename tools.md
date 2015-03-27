@@ -11,3 +11,14 @@
 
 # git
 * [hub](https://github.com/github/hub)
+
+# grep
+
+## جست-و-جوی متن در میان پرونده‌های یک پوشه
+```
+grep -rnw 'directory' -e "pattern"
+```
+
+* `-r` recursive
+* `-n` line number
+* `-w` match the whole word
