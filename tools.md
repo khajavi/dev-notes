@@ -22,3 +22,5 @@ grep -rnw 'directory' -e "pattern"
 * `-r` recursive
 * `-n` line number
 * `-w` match the whole word
+
+- [بیشتر](http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux)
