@@ -2,6 +2,7 @@
 
 # shell
 * [oh-my-fish](https://github.com/bpinto/oh-my-fish)
+* [Installing powerline](http://askubuntu.com/questions/283908/how-can-i-install-and-use-powerline-plugin)
 
 # mail
 * python -m smtpd -n -c DebuggingServer localhost:1025
