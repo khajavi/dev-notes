@@ -12,6 +12,9 @@
 # git
 * [hub](https://github.com/github/hub)
 
+# javascript
+* [jsdelivr](http://www.jsdelivr.com/)
+
 # grep
 
 ## جست-و-جوی متن در میان پرونده‌های یک پوشه
@@ -24,3 +27,6 @@ grep -rnw 'directory' -e "pattern"
 * `-w` match the whole word
 
 - [بیشتر](http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux)
+
+# page speed tester
+* [google pagespeed/insights](https://developers.google.com/speed/pagespeed/insights/)
