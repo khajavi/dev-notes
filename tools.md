@@ -18,6 +18,9 @@
 # upload
 * [transfer.sh](https://transfer.sh/)
 
+# security
+* [keybase.io](https://keybase.io/)
+
 # grep
 
 ## جست-و-جوی متن در میان پرونده‌های یک پوشه
