@@ -15,6 +15,9 @@
 # javascript
 * [jsdelivr](http://www.jsdelivr.com/)
 
+# upload
+* [transfer.sh](https://transfer.sh/)
+
 # grep
 
 ## جست-و-جوی متن در میان پرونده‌های یک پوشه
