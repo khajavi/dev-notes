@@ -63,6 +63,7 @@ sudo lvextend -r -L+20G /dev/khajavi/home
 ## shadowsocks
 * [shadowsocks.org](http://shadowsocks.org/)
 * [shadowsocks](https://github.com/shadowsocks/shadowsocks)
+* [shadowsocks-heroku](https://github.com/mrluanma/shadowsocks-heroku)
 
 ```bash
 sudo pip install shadowsocks
