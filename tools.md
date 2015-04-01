@@ -57,6 +57,9 @@ sudo lvextend -r -L+20G /dev/khajavi/home
 ## dnscrypt
 * [dnscrypt.org](http://dnscrypt.org/)
 
+## cow
+* [cow](https://github.com/cyfdecyf/cow)
+
 ## shadowsocks
 * [shadowsocks.org](http://shadowsocks.org/)
 * [shadowsocks](https://github.com/shadowsocks/shadowsocks)
