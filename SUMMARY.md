@@ -2,4 +2,5 @@
 * [گیت](git.md)
 * [کلوژر](closure.md)
 * [اسکالا](scala.md)
+* [بش](bash.md)
 * [ایدهٔ نشر دیجیتال](ebook.md)
