@@ -53,6 +53,32 @@ sudo lvextend -r -L+20G /dev/khajavi/home
 # security
 * [keybase.io](https://keybase.io/)
 
+# Proxy Tools
+## shadowsocks
+* [shadowsocks](https://github.com/shadowsocks/shadowsocks)
+
+```bash
+sudo pip install shadowsocks
+```
+
+create config file like this:
+
+```json
+{
+    "server":"",
+    "server_port":1984,
+    "local_port":1984,
+    "password":"",
+    "timeout":600,
+    "method":"aes-256-cfb",
+    "local_address":"127.0.0.1"
+} 
+```
+
+then run ``sslocal``
+
+
+
 # grep
 
 ## جست-و-جوی متن در میان پرونده‌های یک پوشه
