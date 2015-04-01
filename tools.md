@@ -101,3 +101,6 @@ grep -rnw 'directory' -e "pattern"
 
 # page speed tester
 * [google pagespeed/insights](https://developers.google.com/speed/pagespeed/insights/)
+
+# short url
+* [git.io](http://git.io/)
