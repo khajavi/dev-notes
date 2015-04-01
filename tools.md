@@ -28,6 +28,18 @@ lvremove /dev/khajavi/home
 ## lvextend
 sudo lvextend -r -L+20G /dev/khajavi/home
 
+## انتقال یک lv از یک vg به vg دیگر
+```bash
+lvcreate --snapshot --name <the-name-of-the-snapshot> --size <the size> /dev/volume-group/logical-volume
+dd if=/dev/volume-group/snapshot-name of=/tmp/backup.img
+lvcreate --name <logical-volume-name> --size <size> the-new-volume-group-name
+dd if=/tmp/backup.img of=/dev/new-volume-group/new-logical-volume
+```
+
+
+
+
+
 -----------------------------------
 
 * [Linux Homebrew](https://github.com/Homebrew/linuxbrew)
