@@ -1,6 +1,22 @@
 # lvm
+
+## activate logical volume
+sudo lvchange -ay /dev/khajavi/home
+
 ## deactive logical volume
-lvchange -an /dev/khajavi/home
+sudo lvchange -an /dev/khajavi/home
+
+## activate volume group
+بعد از وصل کردن هارددیسک
+```
+sudo vgchange -ay khajavi
+```
+
+## deactive volume group
+قبل از حذف هارددیسک:
+```
+sudo vgchange -an khajavi
+```
 
 ## active group
 sudo vgchange -a y ssd
@@ -8,6 +24,9 @@ sudo vgchange -a y ssd
 ## lvremove
 قبل از ریمو کردن lv بهتره که پارتیشن رو با lvchange غیر فعال کنیم.
 lvremove /dev/khajavi/home
+
+## lvextend
+sudo lvextend -r -L+20G /dev/khajavi/home
 
 -----------------------------------
 
