@@ -1,3 +1,16 @@
+# lvm
+## deactive logical volume
+lvchange -an /dev/khajavi/home
+
+## active group
+sudo vgchange -a y ssd
+
+## lvremove
+قبل از ریمو کردن lv بهتره که پارتیشن رو با lvchange غیر فعال کنیم.
+lvremove /dev/khajavi/home
+
+-----------------------------------
+
 * [Linux Homebrew](https://github.com/Homebrew/linuxbrew)
 
 # shell

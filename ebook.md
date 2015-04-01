@@ -83,6 +83,9 @@
  1. خروجی ای‌پاب، پی‌دی‌اف، اچ‌تی‌ام‌ال ندارد.
  2. محتوا به راحتی توسط گوگل قابل ایندکس‌گذاری نیست.
 
+### نمونه‌های دیگر
+* [beegit.com](https://beegit.com/)
+
 ## کارهایی که می‌توان انجام داد
 
 1. صحبت با نشر لب‌المیزان، جهت تبدیل کتاب‌های آقای اصغر طاهرزاده به کتاب‌های استاندارد.
@@ -106,6 +109,7 @@
 2. ویرایشگر [استک‌ادیت](https://stackedit.io) جهت نمایش کتابها.
 3. برای دیتابیس کتاب‌ها می‌توان از ابزار [گیت‌لب](https://github.com/gitlabhq/gitlabhq) استفاده کرد.
 4. pandoc برای تبدیل قالب‌های مختلف.
+5. [Asciidoctor.js](https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia)
 
 ## روش‌های کسب درآمد
 
