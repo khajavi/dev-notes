@@ -54,7 +54,11 @@ sudo lvextend -r -L+20G /dev/khajavi/home
 * [keybase.io](https://keybase.io/)
 
 # Proxy Tools
+## dnscrypt
+* [dnscrypt.org](http://dnscrypt.org/)
+
 ## shadowsocks
+* [shadowsocks.org](http://shadowsocks.org/)
 * [shadowsocks](https://github.com/shadowsocks/shadowsocks)
 
 ```bash
