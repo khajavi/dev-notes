@@ -28,6 +28,12 @@ lvremove /dev/khajavi/home
 ## lvextend
 sudo lvextend -r -L+20G /dev/khajavi/home
 
+
+## lvcreate
+```
+sudo lvcreate --name swap --sie 10G ssd
+```
+
 ## انتقال یک lv از یک vg به vg دیگر
 ```bash
 lvcreate --snapshot --name <the-name-of-the-snapshot> --size <the size> /dev/volume-group/logical-volume
@@ -37,8 +43,18 @@ dd if=/tmp/backup.img of=/dev/new-volume-group/new-logical-volume
 ```
 
 
+# برای اینکه کرنل بتواند دیتای هایبرنیت را روی دیسک مخصوصی بریزد
+آپشن resume= را به کرنل در موقع بوت اضافه می‌کنیم.
 
+```
+resume=/dev/ssd/swap
+```
 
+# اضافه کردن پارامتر به کرنل به هنگام بوت شدن.
+```
+sudo vim /etc/default/grub
+```
+سپس به GRUB_CMDLINE_LINUX_DEFAULT پارامتر دلخواه خود را اضافه می‌کنیم و نهایتاً فرمان update-grup را اجرا می‌کنیم.
 
 -----------------------------------
 
