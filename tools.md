@@ -114,6 +114,9 @@ create config file like this:
 then run ``sslocal``
 
 
+# download
+* [youtube-dl-playlist](https://github.com/jordoncm/youtube-dl-playlist)
+* [youtube-dl/](https://github.com/rg3/youtube-dl/)
 
 # grep
 
