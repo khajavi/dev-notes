@@ -12,3 +12,4 @@
 * [scala-js](http://www.scala-js.org/)
 * [todomvc](https://github.com/widok/todomvc) TodoMVC implementation for Widok
 * [reactive web framework for the JVM and Scala.js](http://widok.github.io/)
+* [awesome-scala](https://github.com/lauris/awesome-scala)
