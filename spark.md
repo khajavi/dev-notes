@@ -1,12 +1,26 @@
 # Apache Spark
 Spark is as a VERY fast in-memory, data-processing framework – like lightning fast. 100x faster than Hadoop fast.
 
+general-purpose in-memory distributed analysis framework
+
 * fast interactive queries
 * streaming analytics
 * graph analytics
 * machine learning
 
+* fantastic functional programming model
+
 Spark was developed in 2009 at UC Berkeley AMPLab, open sourced in 2010, and became a top-level Apache project in February, 2014. It has since become  one of the largest open source communities in big data, with over 200 contributors in 50+ organizations
+
+Unlike Hadoop, Spark supports both batch and streaming analysis meaning you can use a single framework for your batch processing as well as your near real time use cases
+
+# Spark SQL
+Spark SQL is essentially Hive on Spark.
+
+
+# Spark and Cassandra
+* [spark-cassandra-connector](https://github.com/datastax/spark-cassandra-connector)
+
 
 # معایب هادوپ
 1. Everything gets written to disk, including all the interim steps.
@@ -26,3 +40,7 @@ Spark was developed in 2009 at UC Berkeley AMPLab, open sourced in 2010, and bec
     .set("spark.executor.memory", "lg")
     .set("spark.cores.max", "1")
 ```
+
+
+# منابع
+* [](http://planetcassandra.org/getting-started-with-apache-spark-and-cassandra/)
