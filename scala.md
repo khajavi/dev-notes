@@ -17,3 +17,6 @@
 
 # IDE
 * [Scala IDE](http://scala-ide.org/)
+
+# SBT
+* [sbteclipse](https://github.com/typesafehub/sbteclipse/)
