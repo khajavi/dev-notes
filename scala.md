@@ -1,6 +1,7 @@
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/index.html)
 * [Programming Scala, 2nd Edition](http://shop.oreilly.com/product/0636920033073.do)
 * [Learning Scala; Jason Swartz](http://chimera.labs.oreilly.com/books/1234000001798/index.html)
+* [LearningScalaMaterials](https://github.com/swartzrock/LearningScalaMaterials)
 * [Effective Scala](http://twitter.github.io/effectivescala)
 * [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
 
@@ -12,3 +13,10 @@
 * [scala-js](http://www.scala-js.org/)
 * [todomvc](https://github.com/widok/todomvc) TodoMVC implementation for Widok
 * [reactive web framework for the JVM and Scala.js](http://widok.github.io/)
+* [awesome-scala](https://github.com/lauris/awesome-scala)
+
+# IDE
+* [Scala IDE](http://scala-ide.org/)
+
+# SBT
+* [sbteclipse](https://github.com/typesafehub/sbteclipse/)
