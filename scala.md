@@ -20,3 +20,7 @@
 
 # SBT
 * [sbteclipse](https://github.com/typesafehub/sbteclipse/)
+* [mvn2sbt](https://gist.github.com/retronym/388334)
+
+# Maven
+* [scala-archetype-simple](https://github.com/davidB/scala-archetype-simple)
