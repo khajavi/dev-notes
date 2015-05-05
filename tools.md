@@ -116,7 +116,7 @@ then run ``sslocal``
 
 
 # download
-* [youtube-dl-playlist](https://github.com/jordoncm/youtube-dl-playlist)
+* [youtube-dl-playl`ist](https://github.com/jordoncm/youtube-dl-playlist)
 * [youtube-dl/](https://github.com/rg3/youtube-dl/)
 
 # grep
@@ -137,3 +137,9 @@ grep -rnw 'directory' -e "pattern"
 
 # short url
 * [git.io](http://git.io/)
+
+## UUID
+
+```
+sudo blkid
+```
