@@ -2,8 +2,11 @@
 format: markdown+lhs
 ---
 
+> import Data.Char
+
 توابع بازگشتی
 ====
+
 
 > fib :: Integer -> Integer
 > fib n
@@ -11,3 +14,11 @@ format: markdown+lhs
 > 	| n == 1	=	1
 > 	| n > 1		= 	fib (n-1) + fib (n-2)
 
+
+interact
+========
+
+
+
+> main :: IO ()
+> main = interact ( map toUpper )
