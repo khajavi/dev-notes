@@ -4,6 +4,7 @@
 
 # tutorials
 * [](http://www.seas.upenn.edu/~cis194/)
+* [یه برگه تقلب خوب برای هسکل](http://cheatsheet.codeslower.com/CheatSheet.pdf)
 
 # هسکل چیست؟
 Haskell is a purely functional, lazy, statically typed programming language.
