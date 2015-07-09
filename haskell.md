@@ -1,3 +1,5 @@
+gist-id: cd76ef36afbe36e7a65f
+
 # Cabal
 * [cabal - the simple guide](http://katychuang.com/cabal-guide/)
 * [Cabal-sandbox](http://coldwa.st/e/blog/2013-08-20-Cabal-sandbox.html)
@@ -5,6 +7,10 @@
 # tutorials
 * [](http://www.seas.upenn.edu/~cis194/)
 * [یه برگه تقلب خوب برای هسکل](http://cheatsheet.codeslower.com/CheatSheet.pdf)
+* [http://www.seas.upenn.edu/~cis194/spring13/](Introduction to Haskell-Spring 2013)
+* [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell)
+* [A Haskell CheatSheet in PDF and literate source formats.](https://github.com/m4dc4p/cheatsheet)
+* [Introduction to Haskell/ University of Virginia  CS 1501 Lectures  Spring 2013](http://shuklan.com/haskell/index.html)
 
 # هسکل چیست؟
 Haskell is a purely functional, lazy, statically typed programming language.

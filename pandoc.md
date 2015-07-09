@@ -1,3 +1,5 @@
+gist-url: https://gist.github.com/khajavi/24295d78dd390e38f60a
+
 # development
 * [Pandoc for Haskell Hackers; John MacFarlane; BayHac 2014](http://johnmacfarlane.net/BayHac2014/#/)
 * [Pandoc excercises](http://johnmacfarlane.net/BayHac2014/exercises.pdf)
@@ -5,6 +7,9 @@
 * [pandoc-templates](https://github.com/jgm/pandoc-templates)
 * [jgm/pandocfilters](https://github.com/jgm/pandocfilters)
 * [Quick Scriptable Markdown with Pandoc](http://rawgit.com/Davorak/PandocFilters/master/20140608-Science-Sunday.html)
+* [github.com/bgamari/pandoc-lens](https://github.com/bgamari/pandoc-lens)
+
+
 # فیلترهای پن‌داک
 ورودی و خروجی فیلترهای پن‌داک در قالب جی‌سان است است. از این رو دو فرمان زیر معادل هم هستند:
 
